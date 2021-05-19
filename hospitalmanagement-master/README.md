@@ -1,16 +1,6 @@
 # Hospital Management
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Salim%20Patel-red)
 ---
-## screenshots
-### Homepage
-![homepage snap](https://github.com/salimpatel555/hospitalmanagement/blob/master/static/screenshots/homepage.png?raw=true)
-### Admin Dashboard
-![dashboard snap](https://github.com/salimpatel555/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
-### Invoice
-![invoice snap](https://github.com/salimpatel555/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
-### Doctor list
-![doctor snap](https://github.com/salimpatel555/hospitalmanagement/blob/master/static/screenshots/admin_doctor.png?raw=true)
----
 ## Functions
 ### Admin
 - Signup their account. Then Login (No approval Required).
